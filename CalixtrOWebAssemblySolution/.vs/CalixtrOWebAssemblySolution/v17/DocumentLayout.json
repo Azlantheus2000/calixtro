@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\AJ CALIXTRO\\Desktop\\AJ Shits\\CalixtrOWebAssemblySolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9444286D-4FDB-4F1E-A300-814C365F33BF}|CalixtrOWebAssemblyBasic\\CalixtrOWebAssemblyBasic.csproj|c:\\users\\aj calixtro\\desktop\\aj shits\\calixtrowebassemblysolution\\calixtrowebassemblybasic\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9444286D-4FDB-4F1E-A300-814C365F33BF}|CalixtrOWebAssemblyBasic\\CalixtrOWebAssemblyBasic.csproj|solutionrelative:calixtrowebassemblybasic\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\AJ CALIXTRO\\Desktop\\AJ Shits\\CalixtrOWebAssemblySolution\\CalixtrOWebAssemblyBasic\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "CalixtrOWebAssemblyBasic\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\AJ CALIXTRO\\Desktop\\AJ Shits\\CalixtrOWebAssemblySolution\\CalixtrOWebAssemblyBasic\\Pages\\Home.razor",
+              "RelativeToolTip": "CalixtrOWebAssemblyBasic\\Pages\\Home.razor",
+              "ViewState": "AQIAACwAAAAgZmZmZmYCwDMAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-18T22:30:17.792Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

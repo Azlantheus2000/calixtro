@@ -1,0 +1,111 @@
+﻿@page "/"
+
+<PageTitle>Home</PageTitle>
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CalixtrO_Profile</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            background-color: #f0f0f0;
+        }
+
+        .profile-card {
+            background-color: #fff;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+            padding: 20px;
+            max-width: 320px;
+            width: 100%;
+            text-align: center;
+        }
+
+        .profile-picture {
+            width: 100px;
+            height: 100px;
+            border-radius: 50%;
+            margin: 0 auto 20px;
+            overflow: hidden;
+        }
+
+        .profile-picture img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+        }
+
+        .profile-info h1 {
+            font-size: 1.5rem;
+            margin: 10px 0;
+        }
+
+        .profile-info p {
+            font-size: 1rem;
+            margin: 5px 0;
+            color: #666;
+        }
+
+        .floating-table {
+            position: fixed;
+            bottom: 20px;
+            right: 20px;
+            background-color: #fff;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+            padding: 20px;
+            display: none;
+            z-index: 1000;
+        }
+
+
+    </style>
+</head>
+<body>
+    <div class="profile-card">
+        <div class="profile-picture">
+            <img src="IMG_1790.jpg" alt="Profile Picture">
+        </div>
+        <div class="profile-info">
+            <h1>AJ LLOYD UNTAL CALIXTRO</h1>
+            <p>Occupation: BSIT Student</p>
+            <p>Religion: Roman Catholic</p>
+            <p>Age: 23 years old</p>
+            <p>Location: Midpapan 1, Pigcawayan, Cotabato</p>
+            <p>Studied in: Southern Christian College</p>
+        </div>
+     </div>
+
+
+        <button onclick="toggleTable()">Show Floating Table</button>
+        <div class="floating-table" id="floatingTable">
+            <table border="1">
+                <thead>
+                    <tr>
+                        <th>Header 1</th>
+                        <th>Header 2</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <!-- Empty table rows -->
+                </tbody>
+            </table>
+        </div>
+    <script>
+        function toggleTable() {
+            var table = document.getElementById('floatingTable');
+            if (table.style.display === 'none' || table.style.display === '') {
+                table.style.display = 'block';
+            } else {
+                table.style.display = 'none';
+            }
+        }
+    </script>
+</body>

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalixtrOWebAssemblyBasic", "CalixtrOWebAssemblyBasic\CalixtrOWebAssemblyBasic.csproj", "{9444286D-4FDB-4F1E-A300-814C365F33BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9444286D-4FDB-4F1E-A300-814C365F33BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9444286D-4FDB-4F1E-A300-814C365F33BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9444286D-4FDB-4F1E-A300-814C365F33BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9444286D-4FDB-4F1E-A300-814C365F33BF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B669F847-3203-4F76-95F6-5245ED525706}
+	EndGlobalSection
+EndGlobal
