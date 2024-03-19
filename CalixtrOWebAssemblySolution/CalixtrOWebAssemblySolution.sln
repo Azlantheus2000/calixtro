@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34622.214
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalixtrOWebAssemblyBasic", "CalixtrOWebAssemblyBasic\CalixtrOWebAssemblyBasic.csproj", "{9444286D-4FDB-4F1E-A300-814C365F33BF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalixtrOWebAssemblyBasic", "CalixtrOWebAssemblyBasic\CalixtrOWebAssemblyBasic.csproj", "{AA0984D4-47BC-415B-9986-E7617C3936AB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{9444286D-4FDB-4F1E-A300-814C365F33BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{9444286D-4FDB-4F1E-A300-814C365F33BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{9444286D-4FDB-4F1E-A300-814C365F33BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{9444286D-4FDB-4F1E-A300-814C365F33BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA0984D4-47BC-415B-9986-E7617C3936AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA0984D4-47BC-415B-9986-E7617C3936AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA0984D4-47BC-415B-9986-E7617C3936AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA0984D4-47BC-415B-9986-E7617C3936AB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {B669F847-3203-4F76-95F6-5245ED525706}
+		SolutionGuid = {7372087B-D6B9-4EB8-8CEF-0AC76E1056D1}
 	EndGlobalSection
 EndGlobal

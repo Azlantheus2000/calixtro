@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VLbnCTvRgFSUBZ+ndjgweYgvnE+vAxTnaP9+MIn4kaMw8ymd8P9C8Ek9ArlcyegjtQf/4sCtPOv1aPI3ZW30Kw==",
+  "dgSpecHash": "riPHFuvK/gOx24f0yfPnUMTSLy2e3FdiEv3LlmynHHAHTDH7cVPpHA4DDn/46VO9cFTpjoAB8ghnXF9bIThwTw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\AJ CALIXTRO\\Desktop\\AJ Shits\\CalixtrOWebAssemblySolution\\CalixtrOWebAssemblyBasic\\CalixtrOWebAssemblyBasic.csproj",
+  "projectFilePath": "C:\\Users\\AJ CALIXTRO\\Desktop\\Hubs\\AJ_IPT101\\CalixtrOWebAssemblySolution\\CalixtrOWebAssemblyBasic\\CalixtrOWebAssemblyBasic.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\AJ CALIXTRO\\.nuget\\packages\\microsoft.aspnetcore.authorization\\8.0.2\\microsoft.aspnetcore.authorization.8.0.2.nupkg.sha512",
     "C:\\Users\\AJ CALIXTRO\\.nuget\\packages\\microsoft.aspnetcore.components\\8.0.2\\microsoft.aspnetcore.components.8.0.2.nupkg.sha512",

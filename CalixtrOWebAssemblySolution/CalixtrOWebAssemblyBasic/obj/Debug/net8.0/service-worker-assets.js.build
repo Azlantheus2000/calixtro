@@ -41,12 +41,12 @@
       "url": "sample-data\/weather.json"
     },
     {
-      "hash": "sha256-k8NfwuwCCeOoFCP+4FuP9FeUzGyohHbIWvOxkXEPg\/w=",
-      "url": "_framework\/blazor.webassembly.js"
-    },
-    {
       "hash": "sha256-r+IRa9ssc0Q0jKptzYn9xScXviMYtcCx2eMLfju9B8I=",
       "url": "CalixtrOWebAssemblyBasic.styles.css"
+    },
+    {
+      "hash": "sha256-k8NfwuwCCeOoFCP+4FuP9FeUzGyohHbIWvOxkXEPg\/w=",
+      "url": "_framework\/blazor.webassembly.js"
     },
     {
       "hash": "sha256-xpsdU9uDJz5t2\/e+ZH5CkB8nfZeCmSo9PqwquQX4B2U=",
@@ -849,17 +849,17 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-tVjTzCeSAWZj9+8chKnL1UbnaG9kqbrCwby0gRYi4CA=",
+      "hash": "sha256-\/6bHSrdXCia67v64mztUiCJuNBH2uig0Pj3yAIM4ulI=",
       "url": "_framework\/CalixtrOWebAssemblyBasic.wasm"
     },
     {
-      "hash": "sha256-Rky2\/2LlUMMYA4\/OBaCEoSzGIHvoCeZfAGxss5ujkM4=",
+      "hash": "sha256-B5UEBs0MdzY\/FeFPXsPDuftZWWq5S1GteT12GYAnTjg=",
       "url": "_framework\/CalixtrOWebAssemblyBasic.pdb"
     },
     {
-      "hash": "sha256-bmrejDyWVC0Na5ruCZal4EDIoG2uhdoTfXBsIbOpr+w=",
+      "hash": "sha256-fZKH7ECvJCd6VPs8sAhXeV86h03ZvTW3Q4qB2DelDJg=",
       "url": "_framework\/blazor.boot.json"
     }
   ],
-  "version": "P2LdtBCN"
+  "version": "HLS9dgVV"
 };

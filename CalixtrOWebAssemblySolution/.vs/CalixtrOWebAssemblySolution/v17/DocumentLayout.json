@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\AJ CALIXTRO\\Desktop\\AJ Shits\\CalixtrOWebAssemblySolution\\",
+  "WorkspaceRootPath": "C:\\Users\\AJ CALIXTRO\\Desktop\\Hubs\\AJ_IPT101\\CalixtrOWebAssemblySolution\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9444286D-4FDB-4F1E-A300-814C365F33BF}|CalixtrOWebAssemblyBasic\\CalixtrOWebAssemblyBasic.csproj|c:\\users\\aj calixtro\\desktop\\aj shits\\calixtrowebassemblysolution\\calixtrowebassemblybasic\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9444286D-4FDB-4F1E-A300-814C365F33BF}|CalixtrOWebAssemblyBasic\\CalixtrOWebAssemblyBasic.csproj|solutionrelative:calixtrowebassemblybasic\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{AA0984D4-47BC-415B-9986-E7617C3936AB}|CalixtrOWebAssemblyBasic\\CalixtrOWebAssemblyBasic.csproj|c:\\users\\aj calixtro\\desktop\\hubs\\aj_ipt101\\calixtrowebassemblysolution\\calixtrowebassemblybasic\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AA0984D4-47BC-415B-9986-E7617C3936AB}|CalixtrOWebAssemblyBasic\\CalixtrOWebAssemblyBasic.csproj|solutionrelative:calixtrowebassemblybasic\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,13 +20,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Home.razor",
-              "DocumentMoniker": "C:\\Users\\AJ CALIXTRO\\Desktop\\AJ Shits\\CalixtrOWebAssemblySolution\\CalixtrOWebAssemblyBasic\\Pages\\Home.razor",
+              "DocumentMoniker": "C:\\Users\\AJ CALIXTRO\\Desktop\\Hubs\\AJ_IPT101\\CalixtrOWebAssemblySolution\\CalixtrOWebAssemblyBasic\\Pages\\Home.razor",
               "RelativeDocumentMoniker": "CalixtrOWebAssemblyBasic\\Pages\\Home.razor",
-              "ToolTip": "C:\\Users\\AJ CALIXTRO\\Desktop\\AJ Shits\\CalixtrOWebAssemblySolution\\CalixtrOWebAssemblyBasic\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\AJ CALIXTRO\\Desktop\\Hubs\\AJ_IPT101\\CalixtrOWebAssemblySolution\\CalixtrOWebAssemblyBasic\\Pages\\Home.razor",
               "RelativeToolTip": "CalixtrOWebAssemblyBasic\\Pages\\Home.razor",
-              "ViewState": "AQIAACwAAAAgZmZmZmYCwDMAAAAaAAAA",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAIwFUAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-18T22:30:17.792Z",
+              "WhenOpened": "2024-03-19T02:25:08.205Z",
               "EditorCaption": ""
             }
           ]

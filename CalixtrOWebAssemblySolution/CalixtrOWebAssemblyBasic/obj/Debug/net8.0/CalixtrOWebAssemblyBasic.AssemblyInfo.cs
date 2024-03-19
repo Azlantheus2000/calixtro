@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CalixtrOWebAssemblyBasic")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dad0123d612ac857a92d6d265dcf5c3130a761e8")]
 [assembly: System.Reflection.AssemblyProductAttribute("CalixtrOWebAssemblyBasic")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CalixtrOWebAssemblyBasic")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
